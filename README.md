@@ -1,5 +1,5 @@
 # SigaVPN-Install
-A script that we use to make our SigaVPN servers. 
+A script that we use to make our SigaVPN servers. It deadsimple to install.
 
 Auto-configure settings:
 
@@ -11,3 +11,5 @@ Auto-configure settings:
 - tls-version-min 1.2
 - 3072 Bit Diffie-Hellman key
 - no compression
+
+Run sigavpn-setup.sh to set up the OpenVPN server and clientgen.sh to make a new client.
