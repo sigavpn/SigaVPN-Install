@@ -326,5 +326,4 @@ setenv opt block-outside-dns
 verb 3" >> /etc/openvpn/client-template.txt
 	newclient "$CLIENT"
 	echo "A test .ovpn file is located at $homeDir/$CLIENT.ovpn"
-fi
 exit 0;
