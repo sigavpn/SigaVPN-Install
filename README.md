@@ -13,3 +13,6 @@ Auto-configure settings:
 - no compression
 
 Run sigavpn-setup.sh to set up the OpenVPN server and clientgen.sh to make a new client.
+
+
+https://sigavpn.com
